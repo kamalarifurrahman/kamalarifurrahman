@@ -7,7 +7,7 @@
   <h3 style="margin-top: 5px;">Co-Founder & Lead at <strong>CitationVA</strong></h3>
 
   <p>
-    Evidence-Based SEO • Full-Stack SEO  • Search Audits • Search Intelligence • Entity Optimization • Technical & Local SEO • AI-Era Search Visibility
+    Blogger • Evidence-Based & Full-Stack SEO • Search Audits & Intelligence • Entity, Technical & Local SEO • AI-Era Visibility
   </p>
 
   <br>
@@ -55,26 +55,35 @@
 
 ## About Me
 
-**Kamal Arifur Rahman** is the Co-Founder of **CitationVA**, a consultancy focused on evidence-based SEO, search intelligence, entity optimization, and modern visibility systems. His work blends manual SEO, technical diagnostics, entity modeling, and AI-era search behavior.
+**Kamal Arifur Rahman** works across **evidence-based SEO, full-stack search, and modern search intelligence**. His work blends manual SEO, technical diagnostics, entity modeling, and AI-era search behavior to strengthen digital identity, ranking stability, and multi-surface visibility.
 
-He studies how search engines and AI systems interpret trust, relevance, authority, and experience — turning those signals into practical frameworks that strengthen digital identity, improve rankings, and create long-term clarity.
+He focuses on interpreting how search engines and AI systems evaluate trust, relevance, authority, and experience—translating those signals into practical frameworks that produce measurable outcomes for brands and service businesses.
 
-Areas of focus:
+---
 
-- Evidence-based SEO and search intelligence  
-- Entity signals and digital identity  
-- AI-era visibility (AI Overviews, AIO, GEO)  
-- Technical and Local SEO  
-- Experience-led search strategy  
+## Areas of Focus
+
+- Evidence-Based SEO and Full-Stack Search  
+- Search Audits (Technical, Content, Local, Entity-Level)  
+- Search Intelligence and Signal Interpretation  
+- Entity Optimization and Digital Identity  
+- Technical & Local SEO  
+- AI-Era Search Visibility (AI Overviews, AIO, GEO)  
+- Search, SEO, Digital Marketing, and AI-Service Web Properties  
+- SaaS and service-site development across multiple verticals  
 
 ---
 
 ## What I’m Building
 
-- CitationVA — full-stack SEO, search intelligence, and evaluation systems  
-- Entity and signal frameworks for modern SERPs and AI systems  
+- CitationVA — full-stack SEO, search audits, and search intelligence systems  
+- Entity signal frameworks for modern SERPs and AI-influenced search  
 - Multi-surface visibility across Web, Maps, and AI Overviews  
-- Technical and Local SEO diagnostics tied to measurable outcomes  
+- Technical & Local SEO diagnostics tied to measurable outcomes  
+- A growing network of Search, SEO, Digital Marketing, AI-Service, and SaaS websites  
+- Five niche-blogging sites currently in operation  
+- Three new service websites in the development pipeline  
+- A portfolio platform expanding as CitationVA grows  
 
 ---
 
@@ -102,7 +111,7 @@ Areas of focus:
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D2D2D?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-arifur-rahman/)
-[![X](https://img.shields.io/badge/X-2D2D2D?style=flat&logo=x&logoColor=white)](https://x.com/CitationVA)
-[![Facebook](https://img.shields.io/badge/Facebook-2D2D2D?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Kamal.Arifur.Rahman.Sarkar)
-[![Website](https://img.shields.io/badge/Website-2D2D2D?style=flat&logo=google-chrome&logoColor=white)](https://citationva.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D2D2D?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-arifur-rahman/)  
+[![X](https://img.shields.io/badge/X-2D2D2D?style=flat&logo=x&logoColor=white)](https://x.com/CitationVA)  
+[![Facebook](https://img.shields.io/badge/Facebook-2D2D2D?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Kamal.Arifur.Rahman.Sarkar)  
+[![Website](https://img.shields.io/badge/Website-2D2D2D?style=flat&logo=google-chrome&logoColor=white)](https://citationva.com/)  
