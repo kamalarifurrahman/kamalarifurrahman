@@ -3,11 +3,11 @@
 
   <img src="https://img.shields.io/badge/CitationVA-AI%20SEO%20%26%20Search%20Intelligence-111827?style=for-the-badge" alt="CitationVA Badge" />
 
-  <h1>👋 Hi, I'm <strong>Kamal Arifur Rahman</strong></h1>
-  <h3>Co-Founder & Lead at <strong>CitationVA</strong></h3>
+  <h1 style="margin-bottom: 0;">Hi, I'm <strong>Kamal Arifur Rahman</strong></h1>
+  <h3 style="margin-top: 5px;">Co-Founder & Lead at <strong>CitationVA</strong></h3>
 
   <p>
-    AI-Driven SEO • Search Intelligence • Entity Optimization • Modern Internet Visibility
+    Evidence-Based SEO • Search Intelligence • Entity Optimization • Technical & Local SEO • AI-Era Search Visibility
   </p>
 
   <br>
@@ -15,16 +15,16 @@
   <!-- PERSONAL SOCIAL BADGES -->
   <p>
     <a href="https://citationva.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-citationva.com-0A0A0A?style=for-the-badge" alt="Personal Website" />
+      <img src="https://img.shields.io/badge/Website-2D2D2D?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge" />
     </a>
     <a href="https://www.linkedin.com/in/kamal-arifur-rahman/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Kamal_Arifur_Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Kamal" />
+      <img src="https://img.shields.io/badge/LinkedIn-2D2D2D?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <a href="https://github.com/kamalarifurrahman" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-kamalarifurrahman-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Kamal" />
+      <img src="https://img.shields.io/badge/GitHub-2D2D2D?style=flat&logo=github&logoColor=white" alt="GitHub Badge" />
     </a>
     <a href="https://www.facebook.com/Kamal.Arifur.Rahman.Sarkar" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-Kamal.Arifur.Rahman.Sarkar-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Kamal" />
+      <img src="https://img.shields.io/badge/Facebook-2D2D2D?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge" />
     </a>
   </p>
 
@@ -32,76 +32,77 @@
 
 ---
 
-## 🏢 CitationVA — Studio Links
+## CitationVA — Official Profiles
 
 <div align="center">
 
 <a href="https://citationva.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-CitationVA.com-000000?style=for-the-badge" alt="CitationVA Website" />
+  <img src="https://img.shields.io/badge/Website-2D2D2D?style=flat&logo=google-chrome&logoColor=white" alt="CitationVA Website" />
 </a>
 <a href="https://www.linkedin.com/company/citationva/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Company_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="CitationVA LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-2D2D2D?style=flat&logo=linkedin&logoColor=white" alt="CitationVA LinkedIn" />
 </a>
 <a href="https://x.com/CitationVA" target="_blank">
-  <img src="https://img.shields.io/badge/X_(@CitationVA)-000000?style=for-the-badge&logo=x&logoColor=white" alt="CitationVA X" />
+  <img src="https://img.shields.io/badge/X-2D2D2D?style=flat&logo=x&logoColor=white" alt="CitationVA X" />
 </a>
 <a href="https://www.facebook.com/CitationVA/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Company_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="CitationVA Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-2D2D2D?style=flat&logo=facebook&logoColor=white" alt="CitationVA Facebook" />
 </a>
 
 </div>
 
 ---
 
-## 👤 About Me
+## About Me
 
-**Kamal Arifur Rahman** is the Co-Founder of **CitationVA**, a data-driven SEO and AI consultancy that helps brands strengthen visibility, trust, and search readiness in the AI era.
+**Kamal Arifur Rahman** is the Co-Founder of **CitationVA**, a consultancy focused on evidence-based SEO, search intelligence, entity optimization, and modern visibility systems. His work blends manual SEO, technical diagnostics, entity modeling, and AI-era search behavior.
 
-His work connects **AI evaluation, search experience design, entity optimization, and enterprise digital strategy**, building a bridge between how machines read the web and how people experience brands.
+He studies how search engines and AI systems interpret trust, relevance, authority, and experience — turning those signals into practical frameworks that strengthen digital identity, improve rankings, and create long-term clarity.
 
-He focuses on how AI systems and search engines interpret trust, relevance, authority, and experience signals — and turns that into **practical frameworks** teams can use to diagnose weaknesses, fix digital identity gaps, and grow with evidence instead of guesswork.
+Areas of focus:
 
-He writes and experiments around:
-
-- AI-Driven SEO & Search Intelligence  
-- Entity Signals & Digital Identity  
-- AI Overviews, AIO & GEO  
-- Technical + Local SEO in an AI-shaped landscape  
-- Experience-driven search strategy and growth systems  
+- Evidence-based SEO and search intelligence  
+- Entity signals and digital identity  
+- AI-era visibility (AI Overviews, AIO, GEO)  
+- Technical and Local SEO  
+- Experience-led search strategy  
 
 ---
 
-## 🧩 What I’m Building
+## What I’m Building
 
-- 🔍 **CitationVA** — AI-driven SEO, search intelligence, and evaluation systems  
-- 🧠 **Search & entity frameworks** for modern SERPs and AI surfaces  
-- 🌐 **Multi-surface visibility** across Web, Maps, AI Overviews, and social layers  
-- 🧱 **Technical + Local SEO diagnostics** tied to real business outcomes  
+- CitationVA — full-stack SEO, search intelligence, and evaluation systems  
+- Entity and signal frameworks for modern SERPs and AI systems  
+- Multi-surface visibility across Web, Maps, and AI Overviews  
+- Technical and Local SEO diagnostics tied to measurable outcomes  
 
 ---
 
-## 📊 GitHub Snapshot
+## GitHub Snapshot
 
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=kamalarifurrahman&show_icons=true&theme=transparent&hide_border=true"
-    alt="Kamal's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=kamalarifurrahman&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+    height="170"
   />
+
   <br/>
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalarifurrahman&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalarifurrahman&layout=compact&theme=github_dark&hide_border=true"
     alt="Top Languages"
+    height="170"
   />
 
 </div>
 
 ---
 
-## 🤝 Let’s Connect
+## Connect With Me
 
-If you’re working on **AI, search, SEO, or digital strategy** and want to talk systems, signals, or experiments, feel free to reach out.
-
-- 💼 LinkedIn: [Kamal Arifur Rahman](https://www.linkedin.com/in/kamal-arifur-rahman/)  
-- 🧭 Studio: [CitationVA](https://citationva.com/)  
-- 🐦 X: [@CitationVA](https://x.com/CitationVA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D2D2D?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-arifur-rahman/)
+[![X](https://img.shields.io/badge/X-2D2D2D?style=flat&logo=x&logoColor=white)](https://x.com/CitationVA)
+[![Facebook](https://img.shields.io/badge/Facebook-2D2D2D?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Kamal.Arifur.Rahman.Sarkar)
+[![Website](https://img.shields.io/badge/Website-2D2D2D?style=flat&logo=google-chrome&logoColor=white)](https://citationva.com/)
