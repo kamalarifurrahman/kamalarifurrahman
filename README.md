@@ -1,16 +1,39 @@
 ## Hi there 👋
+# 👋 Hi, I'm Kamal Arifur Rahman  
+Founder & Lead at CitationVA — AI-driven SEO & Search Intelligence
 
-<!--
-**kamalarifurrahman/kamalarifurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 CitationVA — Official Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Website:**  
+https://citationva.com/
+
+**LinkedIn (Company):**  
+https://www.linkedin.com/company/citationva/
+
+**Facebook (Company Page):**  
+https://www.facebook.com/CitationVA/
+
+**Twitter / X (Company):**  
+https://x.com/CitationVA
+
+---
+
+## 👤 Personal Social Profiles — Kamal Arifur Rahman
+
+**LinkedIn (Personal):**  
+https://www.linkedin.com/in/kamal-arifur-rahman/
+
+**Facebook (Personal):**  
+https://www.facebook.com/Kamal.Arifur.Rahman.Sarkar
+
+---
+
+## 📌 About CitationVA
+AI-Driven SEO, Search Intelligence & Evaluation Systems for the AI Era.
+
+---
+
+## 📈 Connect & Collaborate
+Feel free to reach out for discussions on AI-driven SEO, search intelligence, evaluation systems, and digital strategy.
