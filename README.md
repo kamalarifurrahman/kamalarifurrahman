@@ -7,7 +7,7 @@
   <h3 style="margin-top: 5px;">Co-Founder & Lead at <strong>CitationVA</strong></h3>
 
   <p>
-    Evidence-Based SEO • Search Intelligence • Entity Optimization • Technical & Local SEO • AI-Era Search Visibility
+    Evidence-Based SEO • Full-Stack SEO  • Search Audits • Search Intelligence • Entity Optimization • Technical & Local SEO • AI-Era Search Visibility
   </p>
 
   <br>
