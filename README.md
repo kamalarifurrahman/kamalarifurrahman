@@ -83,7 +83,7 @@ He focuses on interpreting how search engines and AI systems evaluate trust, rel
 - A growing network of Search, SEO, Digital Marketing, AI-Service, and SaaS websites  
 - Five niche-blogging sites currently in operation  
 - Three new service websites in the development pipeline  
-- A portfolio platform expanding as CitationVA grows  
+- A portfolio platform expanding as SYSTEM grows  
 
 ---
 
