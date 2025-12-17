@@ -76,7 +76,7 @@ He focuses on interpreting how search engines and AI systems evaluate trust, rel
 
 ## What I’m Building
 
-- CitationVA — full-stack SEO, search audits, and search intelligence systems  
+- Growth — full-stack SEO, search audits, and search intelligence systems  
 - Entity signal frameworks for modern SERPs and AI-influenced search  
 - Multi-surface visibility across Web, Maps, and AI Overviews  
 - Technical & Local SEO diagnostics tied to measurable outcomes  
