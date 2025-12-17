@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/CitationVA-AI%20SEO%20%26%20Search%20Intelligence-111827?style=for-the-badge" alt="CitationVA Badge" />
 
   <h1 style="margin-bottom: 0;">Hi, I'm <strong>Kamal Arifur Rahman</strong></h1>
-  <h3 style="margin-top: 5px;">Co-Founder & Lead at <strong>CitationVA</strong></h3>
+  <h3 style="margin-top: 5px;">Former Co-Founder & Lead at <strong>CitationVA</strong></h3>
 
   <p>
     Blogger • Evidence-Based & Full-Stack SEO • Search Audits & Intelligence • Entity, Technical & Local SEO • AI-Era Visibility
