@@ -1,22 +1,17 @@
 <!-- PROFILE HERO -->
 <div align="center">
 
-  <img src="https://img.shields.io/badge/CitationVA-AI%20SEO%20%26%20Search%20Intelligence-111827?style=for-the-badge" alt="CitationVA Badge" />
-
   <h1 style="margin-bottom: 0;">Hi, I'm <strong>Kamal Arifur Rahman</strong></h1>
-  <h3 style="margin-top: 5px;">Former Co-Founder & Lead at <strong>CitationVA</strong></h3>
+  <h3 style="margin-top: 5px;">Search Strategist • Search Intelligence • Technical & Local SEO</h3>
 
   <p>
-    Blogger • Evidence-Based & Full-Stack SEO • Search Audits & Intelligence • Entity, Technical & Local SEO • AI-Era Visibility
+    Blogger • Evidence-Based SEO • Full-Stack Search • Search Audits & Intelligence • Entity, Technical & Local SEO • AI-Era Visibility • Former Co-Founder at CitationVA
   </p>
 
   <br>
 
   <!-- PERSONAL SOCIAL BADGES -->
   <p>
-    <a href="https://citationva.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-2D2D2D?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge" />
-    </a>
     <a href="https://www.linkedin.com/in/kamal-arifur-rahman/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-2D2D2D?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
@@ -32,32 +27,13 @@
 
 ---
 
-## CitationVA — Official Profiles
-
-<div align="center">
-
-<a href="https://citationva.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-2D2D2D?style=flat&logo=google-chrome&logoColor=white" alt="CitationVA Website" />
-</a>
-<a href="https://www.linkedin.com/company/citationva/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-2D2D2D?style=flat&logo=linkedin&logoColor=white" alt="CitationVA LinkedIn" />
-</a>
-<a href="https://x.com/CitationVA" target="_blank">
-  <img src="https://img.shields.io/badge/X-2D2D2D?style=flat&logo=x&logoColor=white" alt="CitationVA X" />
-</a>
-<a href="https://www.facebook.com/CitationVA/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-2D2D2D?style=flat&logo=facebook&logoColor=white" alt="CitationVA Facebook" />
-</a>
-
-</div>
-
----
-
 ## About Me
 
-**Kamal Arifur Rahman** works across **evidence-based SEO, full-stack search, and modern search intelligence**. His work blends manual SEO, technical diagnostics, entity modeling, and AI-era search behavior to strengthen digital identity, ranking stability, and multi-surface visibility.
+**Kamal Arifur Rahman** works across **evidence-based SEO, full-stack search, and modern search intelligence**, combining manual SEO practice with data-backed diagnostics and AI-era search behavior.
 
-He focuses on interpreting how search engines and AI systems evaluate trust, relevance, authority, and experience—translating those signals into practical frameworks that produce measurable outcomes for brands and service businesses.
+Previously, Kamal co-founded **CitationVA**, where his work focused on technical SEO audits, entity optimization, search signal interpretation, and multi-surface visibility across Web, Maps, and AI-influenced search systems.
+
+His current focus centers on understanding how search engines and AI systems evaluate trust, relevance, authority, and experience — translating those signals into practical frameworks that drive measurable outcomes.
 
 ---
 
@@ -74,16 +50,14 @@ He focuses on interpreting how search engines and AI systems evaluate trust, rel
 
 ---
 
-## What I’m Building
+## Current Work & Projects
 
-- Growth — full-stack SEO, search audits, and search intelligence systems  
-- Entity signal frameworks for modern SERPs and AI-influenced search  
-- Multi-surface visibility across Web, Maps, and AI Overviews  
-- Technical & Local SEO diagnostics tied to measurable outcomes  
-- A growing network of Search, SEO, Digital Marketing, AI-Service, and SaaS websites  
-- Five niche-blogging sites currently in operation  
-- Three new service websites in the development pipeline  
-- A portfolio platform expanding as SYSTEM grows  
+- Full-stack SEO audit frameworks and diagnostics  
+- Entity modeling and digital identity systems  
+- Search intelligence and signal interpretation research  
+- Multi-surface SEO experimentation across Web, Maps, and AI-driven search  
+- Development and maintenance of niche content and service-oriented projects  
+- Ongoing expansion of personal research, tooling, and documentation repositories  
 
 ---
 
@@ -112,6 +86,5 @@ He focuses on interpreting how search engines and AI systems evaluate trust, rel
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2D2D2D?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-arifur-rahman/)  
-[![X](https://img.shields.io/badge/X-2D2D2D?style=flat&logo=x&logoColor=white)](https://x.com/CitationVA)  
 [![Facebook](https://img.shields.io/badge/Facebook-2D2D2D?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Kamal.Arifur.Rahman.Sarkar)  
-[![Website](https://img.shields.io/badge/Website-2D2D2D?style=flat&logo=google-chrome&logoColor=white)](https://citationva.com/)  
+
