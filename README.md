@@ -2,7 +2,7 @@
 <div align="center">
 
   <h1 style="margin-bottom: 0;">Hi, I'm <strong>Kamal Arifur Rahman</strong></h1>
-  <h3 style="margin-top: 5px;">Search Strategist • Search Intelligence • Technical & Local SEO</h3>
+  <h3 style="margin-top: 5px;">SEO Strategist • Search Intelligence • Technical & Local SEO</h3>
 
   <p>
     Blogger • Evidence-Based SEO • Full-Stack Search • Search Audits & Intelligence • Entity, Technical & Local SEO • AI-Era Visibility • Former Co-Founder at CitationVA
